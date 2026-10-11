@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-10-11T05:46:35.672Z",
+  "catalogFrom": "2026-10-11T05:31:18.149Z",
+  "catalogPath": "data/survey/catalog.json",
+  "note": "verdict=verified only when publisher strings appear on the root page. Subpage colophons (e.g. Agni adhyāya 88) require a future --deep pass.",
+  "rows": [
+    {
+      "root": "अग्निपुराणम्",
+      "rootBytes": 20836,
+      "subpages": 384,
+      "sources": [
+        "tagged-search:insource:\"{{गीताप्रेस}}\"",
+        "colophon-hits:1"
+      ],
+      "wikitextChars": 10108,
+      "markers": [],
+      "snippet": null,
+      "verdict": "exclude-purana"
+    },
+    {
+      "root": "कठोपनिषद्भाष्यम्",
+      "rootBytes": 329,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 233,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "कातन्त्रव्याकरणम्",
+      "rootBytes": 1916897,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ],
+      "wikitextChars": 729867,
+      "markers": [],
+      "snippet": null,
+      "verdict": "false-positive-search"
+    },
+    {
+      "root": "गीताशास्त्रार्थविवेकः",
+      "rootBytes": 312,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ],
+      "wikitextChars": 228,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "गौडपादकारिका (आङ्ग्लानुवादसहिता)",
+      "rootBytes": 278,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 216,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "तत्त्वसङ्ख्यानम् (सटीका)",
+      "rootBytes": 315,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 229,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "प्रश्नोपनिषत् (श्रीरङ्गरामानुजः)",
+      "rootBytes": 425,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 269,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "ब्रह्मसिद्धिः (मण्डनमिश्रः)",
+      "rootBytes": 361,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 257,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "भरतकोशः-१",
+      "rootBytes": 308,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 228,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "वादावली",
+      "rootBytes": 299,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 223,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "विशिष्टाद्वैतसिद्धिः",
+      "rootBytes": 304,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 224,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "वेदान्तसारः (आङ्ग्लानुवादसहितः)",
+      "rootBytes": 323,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 225,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "वेदान्तसारः (सदानन्दः)",
+      "rootBytes": 342,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 242,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "श्रीमद्भगवद्गीताविवेचनात्मकशब्दकोशः",
+      "rootBytes": 395,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 255,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "श्रीललितासहस्रनाम (सौभाग्यभास्करभाष्यम्)",
+      "rootBytes": 379,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ],
+      "wikitextChars": 251,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "संस्कृतसंवादकृता वाक्याभ्यासाः",
+      "rootBytes": 440609,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 221423,
+      "markers": [],
+      "snippet": null,
+      "verdict": "false-positive-search"
+    },
+    {
+      "root": "सिद्धसिद्धान्तपद्धतिः अन्ये च",
+      "rootBytes": 406,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 262,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "A Sanskrit primer",
+      "rootBytes": 260,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 252,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "ARYABHATIYA OF ARYABHATA",
+      "rootBytes": 323,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 281,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "Birds in Sanskrit literature",
+      "rootBytes": 264,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 256,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    },
+    {
+      "root": "Sanskrit Introductory",
+      "rootBytes": 228,
+      "subpages": 0,
+      "sources": [
+        "catalog-search:Gita Press"
+      ],
+      "wikitextChars": 228,
+      "markers": [],
+      "snippet": null,
+      "verdict": "stub"
+    }
+  ],
+  "counts": {
+    "verified": 0,
+    "excludePurana": 1,
+    "falsePositiveSearch": 2,
+    "stub": 18
+  }
+}

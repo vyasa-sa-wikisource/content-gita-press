@@ -1,0 +1,5 @@
+# Verified non-purāṇa roots only (one title per line).
+# Used with: bun run survey -- --candidates-file data/survey/candidate-roots.txt
+#
+# 2026-10-11: No roots pass verify-mentions on the root page. List intentionally empty.
+# Re-populate after catalog.json + verify-mentions shows verdict=verified.

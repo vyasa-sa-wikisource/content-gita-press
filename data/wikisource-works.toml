@@ -1,0 +1,16 @@
+# Slice for vyasa-sa-wikisource/content-gita-press.
+# Non-purāṇa sa.wikisource.org works whose wikitext explicitly cites Gita Press /
+# Gorakhpur (see data/survey/catalog-verification.json). Not pur-gita-press prints.
+#
+# 2026-10-11 catalog pass: zero accepted works. Registry stays empty until verify-mentions
+# reports at least one non-purāṇa root with publisher strings (or a documented subpage gate).
+
+repo = "content-gita-press"
+
+# Example when a work qualifies:
+# [[work]]
+# id = "example"
+# title_sa = "…"
+# wikisource = "…"
+# category = "गीताप्रेस-उल्लेखः"
+# status = "candidate"

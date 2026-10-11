@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-10-11T05:31:18.149Z",
+  "note": "Catalog mode: colophon + Gita Press full-text queries + templates/categories. Most GP purāṇa chapters are not marked in wikitext; combine with --candidates-category or a curated list for coverage.",
+  "minBytes": 800,
+  "catalog": true,
+  "includeMentions": false,
+  "candidatesCategory": null,
+  "candidatesFile": null,
+  "colophonCatalogQueries": [
+    "insource:\"गीताप्रेस, गोरखपुर\"",
+    "insource:\"गीताप्रेस\" insource:\"गोरखपुर\""
+  ],
+  "catalogExtraSearchQueries": [
+    "Gita Press",
+    "गीता-प्रेस",
+    "गीता प्रेस"
+  ],
+  "categories": [
+    "वर्गः:गीताप्रेस",
+    "वर्गः:गीता प्रेस",
+    "वर्गः:गीताप्रेस, गोरखपुर"
+  ],
+  "taggedSearchQueries": [
+    "incategory:\"गीताप्रेस\"",
+    "incategory:\"गीता प्रेस\"",
+    "insource:\"{{गीताप्रेस}}\"",
+    "insource:\"[[वर्गः:गीताप्रेस]]\""
+  ],
+  "roots": [
+    {
+      "root": "अग्निपुराणम्",
+      "subpages": 384,
+      "subpageBytes": 3593304,
+      "real": 383,
+      "stubs": 1,
+      "topShapes": [
+        "अध्यायः # (382)",
+        "विषयानुक्रमणिका (1)"
+      ],
+      "rootBytes": 20836,
+      "sources": [
+        "tagged-search:insource:\"{{गीताप्रेस}}\"",
+        "colophon-hits:1"
+      ]
+    },
+    {
+      "root": "कठोपनिषद्भाष्यम्",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 329,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "कातन्त्रव्याकरणम्",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 1916897,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ]
+    },
+    {
+      "root": "गीताशास्त्रार्थविवेकः",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 312,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ]
+    },
+    {
+      "root": "गौडपादकारिका (आङ्ग्लानुवादसहिता)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 278,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "तत्त्वसङ्ख्यानम् (सटीका)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 315,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "प्रश्नोपनिषत् (श्रीरङ्गरामानुजः)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 425,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "ब्रह्मसिद्धिः (मण्डनमिश्रः)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 361,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "भरतकोशः-१",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 308,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "वादावली",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 299,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "विशिष्टाद्वैतसिद्धिः",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 304,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "वेदान्तसारः (आङ्ग्लानुवादसहितः)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 323,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "वेदान्तसारः (सदानन्दः)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 342,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "श्रीमद्भगवद्गीताविवेचनात्मकशब्दकोशः",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 395,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "श्रीललितासहस्रनाम (सौभाग्यभास्करभाष्यम्)",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 379,
+      "sources": [
+        "catalog-search:गीता-प्रेस",
+        "catalog-search:गीता प्रेस"
+      ]
+    },
+    {
+      "root": "संस्कृतसंवादकृता वाक्याभ्यासाः",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 440609,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "सिद्धसिद्धान्तपद्धतिः अन्ये च",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 406,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "A Sanskrit primer",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 260,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "ARYABHATIYA OF ARYABHATA",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 323,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "Birds in Sanskrit literature",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 264,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    },
+    {
+      "root": "Sanskrit Introductory",
+      "subpages": 0,
+      "subpageBytes": 0,
+      "real": 0,
+      "stubs": 0,
+      "topShapes": [],
+      "rootBytes": 228,
+      "sources": [
+        "catalog-search:Gita Press"
+      ]
+    }
+  ]
+}
